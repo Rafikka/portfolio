@@ -45,16 +45,4 @@ header img{
 
 main {
     background-image: linear-gradient(rgb(89, 60, 253), rgb(214, 170, 255));
-    width: 1100px;
-    height: 500;
-}
-
-footer {
-    background-color: rgb(214, 170, 255) ;
-    height: 40px;
-    width: 1200px;
-    font-size:16px;
-    padding: 10px;
-    margin: 10px;
-    border-radius: 8px;
 }
