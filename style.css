@@ -75,6 +75,10 @@ ul{
     flex-wrap: wrap;
 }
 
+h2 {
+    text-align: center;
+}
+
 body {
     font-family: sans-serif;
     background-color: rgb(163, 163, 255);
